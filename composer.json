@@ -39,10 +39,5 @@
         "classmap": [
             "src/aliases.php"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-main": "2.x-dev"
-        }
     }
 }
